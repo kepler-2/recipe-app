@@ -25,7 +25,7 @@ public class LoadImage {
     Uri selectedImage;
     int reqWidth;
     int reqHeight;
-
+     
     //translation
     String explanationTitle = "Load Picture Permission";
     String explanationDesc = "The app needs to read the picture from your storage.";
